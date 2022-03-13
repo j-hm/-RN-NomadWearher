@@ -8,6 +8,6 @@
 ## NomadCoder 강의
 
  * react native rules
-    - 모든 텍스트는 <TEXT>안에서
-    - div는 <VIEW>안에서
+    - 모든 텍스트는 ```<TEXT>```안에서
+    - div는 ```<VIEW>```안에서
     - REACT NATIVE는 브라우저가 아닌 개발자가 앱을 만들기 편하게 하는 인터페이스다
