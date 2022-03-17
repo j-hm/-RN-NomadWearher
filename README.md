@@ -19,3 +19,6 @@
     - 부모 flexbox가 중요하다. 자식 flexbox의 비율을 계산하는 기준이 된다. (정확하게 이런 의미는 아닌 것 같은데. 아무튼.)
  * styles
     - react native는 모든 것이 component. 아무리 뷰를 이어 붙여도 아래로 스크롤 되지 않고 스크롤이 되는 component를 사용해야한다.
+ * Weather
+    - ```const [days, setDays] = useState([]); ```
+    - useState안에 ```[]```를 넣는 이유? 배열을 받아 와서 사용할 것이기 때문에!!
